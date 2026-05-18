@@ -15,7 +15,7 @@ from typing import Iterator, Optional
 
 import pandas as pd
 
-DB_PATH = Path(__file__).parent.parent / "data" / "portfolio.db"
+DB_PATH = Path(__file__).parent / "data" / "portfolio.db"
 
 
 # --------------------------------------------------------------------------- #
